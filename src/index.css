@@ -45,6 +45,7 @@ div{
 .welcome-btn{
   font-size: 20px;
   display: block;
+  margin: 30px 20px;
 }
 
 nav{
@@ -70,4 +71,8 @@ nav ul li{
   display: inline-block;
   margin-right: 10px;
   color: #fff;
+}
+
+.loading{
+  color: chartreuse;
 }
